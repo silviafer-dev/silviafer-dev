@@ -13,7 +13,7 @@ Me gusta el formar a la gente y seguir aprendiendo en equipo. Para ello estoy bu
 **Server:** Node, Express
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silviafer-dev&theme=gruvbox&hide_border=true&layout=compact" alt="silviafer-dev stats card" /></p>
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=silviafer-dev&theme=gruvbox&hide_border=true&layout=compact" alt="silviafer-dev stats card" /></p>
 <br/>
 <hr/>
 
@@ -54,5 +54,5 @@ Me gusta el formar a la gente y seguir aprendiendo en equipo. Para ello estoy bu
 <br/>
 <hr/>
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=silviafer-dev&show_icons=true&theme=gruvbox&hide_border=true" alt="silviafer-dev stats card" /></p>
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=silviafer-dev&show_icons=true&theme=gruvbox&hide_border=true" alt="silviafer-dev stats card" /></p>
 
