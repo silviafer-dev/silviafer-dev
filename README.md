@@ -1,12 +1,21 @@
 # Hola, soy Silvia! 👋
 
+
+
 ## 🚀 About Me
 
 Soy Full Stack Web Developer.
-Estoy buscando oportunidades para seguir formándome y aprendiendo en el campo del desarrollo web.
-Me considero una persona responsable, con altas dotes de organización, tanto del personal como del tiempo.
-Me gusta el formar a la gente y seguir aprendiendo en equipo. Para ello estoy buscando un lugar en el que poder seguir creciendo y desarrollando mis habilidades.
-## Tech Stack
+Mi expertise full-stack me convierte en un perfil con mucha versatilidad y facilidad para adaptarme a nuevas tecnologías, pero me apasiona el front-end y React es la tecnología que más domino.
+
+Me gusta formar a perfiles más Junior compartiendo mis conocimientos en programación y aprendiendo tecnologías nuevas cada día.
+Soy responsable y tengo altas dotes de gestión, tanto de los equipos de trabajo como del tiempo.
+
+Mi tiempo libre lo empleo en disfrutar bajo el sol, tanto con la bici como con un buen libro, pasear por Madrid, y hacer pequeñas escapadas para conocer sitios nuevos.😎
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/93374105/220571806-86f472b4-9d90-4747-8a68-426e3f381b98.gif" width="170">
+</p>
+
 
 **Client:** React, Redux, CSS, Sass, Bem, Javascript, Typescript
 
